@@ -7,3 +7,7 @@ Included:
 * Preact
 * Emotion CSS-in-Js
 * Prettier, ESLint, Stylelint
+
+```sh
+npx degit git@github.com:alexkrolick/electron-preact-template.git your-new-repo
+```
